@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddhant Singh</h1>
 <h3 align="center">Pre-Final year CSE undergraduate at Indian Institute of Information Technology, Vadodara</h3>
+<h4 align="center">Full Stack Web Developer | Blockchain Enthusiast</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhantsingh186&label=Profile%20views&color=0e75b6&style=flat" alt="siddhantsingh186" /> </p>
 
