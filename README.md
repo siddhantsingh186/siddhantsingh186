@@ -25,7 +25,7 @@
 <a href="https://dev.to/siddhantsingh186" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="siddhantsingh186" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/siddhant-singh-ab175a1a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhant-singh-ab175a1a9" height="30" width="40" /></a>
 <a href="https://codesandbox.com/siddhantsingh186" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="siddhantsingh186" height="30" width="40" /></a>
-<a href="https://instagram.com/anaga_pesist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anaga_pesist" height="30" width="40" /></a>
+<a href="https://www.instagram.com/anaga_pesist/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anaga_pesist" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/siddhant186" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="siddhant186" height="30" width="40" /></a>
 </p>
 
