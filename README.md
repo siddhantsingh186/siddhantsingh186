@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhantsingh186" alt="siddhantsingh186" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js, TypeScript, Ethereum Blockchain**
+- 🌱 I’m currently learning **Typescript, Ruby on Rails, Web3*
 
 - 👯 I’m looking to collaborate on **Full-Stack/Frontend projects**
 
-- 🤝 I’m looking for help with **DSA 🙂**
+- 🤝 I’m looking for help with **Making my first contribution in open-source🙂**
 
 - 👨‍💻 All of my projects are available at [https://github.com/siddhantsingh186](https://github.com/siddhantsingh186)
 
@@ -18,15 +18,14 @@
 
 - 📫 How to reach me **siddhantsingh186@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1u_tNAH9SKu0M6YaoCu0Ym6-OwEnvNecO/view?usp=sharing](https://drive.google.com/file/d/1u_tNAH9SKu0M6YaoCu0Ym6-OwEnvNecO/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1I9slvYS8zsPgFHnOmRvXXgHjA-gIu7Lt/view?usp=share_link](https://drive.google.com/file/d/1u_tNAH9SKu0M6YaoCu0Ym6-OwEnvNecO/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/siddhantsingh186" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="siddhantsingh186" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/siddhant-singh-ab175a1a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhant-singh-ab175a1a9" height="30" width="40" /></a>
 <a href="https://codesandbox.com/siddhantsingh186" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="siddhantsingh186" height="30" width="40" /></a>
-<a href="https://www.instagram.com/anaga_pesist/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anaga_pesist" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/siddhant186" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="siddhant186" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/why_stop" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="siddhant186" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
